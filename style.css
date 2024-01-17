@@ -1,0 +1,50 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #88c070;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.header{
+    background-color: rgb(40, 91, 41);
+    padding: 1em;
+    font-size: 3em;
+    background-image: url(images/realfrogbanner2.png);
+    text-shadow: 
+    -4px -1px 0 #000,
+    1px -1px 0 #000,
+    -4px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.contents{
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: #88c070;
+    color: black;
+    font-size: 20px;
+    padding: 2em;
+}
+
+.header > text{
+    size: 25em;
+    color: black
+}
+
+.backgroundbox{
+    background-color: darkgreen;
+}
+
+.text{
+    background-color: lightblue;
+    font-size: 20px;
+    color: black;
+}
+
+.information{
+    border: solid;
+    background-color: darkgreen;
+    border-radius: 50px;
+}
